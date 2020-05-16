@@ -8,9 +8,7 @@
       "choice_two" : "neki body2",
       "choice_three" : "neki body3",
       "choice_four" : "neki body4"
-    }      
-  ],
-  [   
+    },
     { 
       "id" : 2, 
       "question_text" : "pitanje", 
