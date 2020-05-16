@@ -1,10 +1,13 @@
 {   
-  "posts": 
+  "questions": 
   [   
     { 
       "id" : 1, 
-      "title" : "nesto", 
-      "body" : "neki body"
+      "question_text" : "nesto", 
+      "choice_one" : "neki body1",
+      "choice_two" : "neki body2",
+      "choice_three" : "neki body3",
+      "choice_four" : "neki body4"
     }      
   ]    
 }
