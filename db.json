@@ -1,1 +1,10 @@
-{   "posts": [   { "id" : 1, "title" : "nesto", "body" : "neki body"}      ]    }
+{   
+  "posts": 
+  [   
+    { 
+      "id" : 1, 
+      "title" : "nesto", 
+      "body" : "neki body"
+    }      
+  ]    
+}
