@@ -9,5 +9,15 @@
       "choice_three" : "neki body3",
       "choice_four" : "neki body4"
     }      
-  ]    
+  ],
+  [   
+    { 
+      "id" : 2, 
+      "question_text" : "pitanje", 
+      "choice_one" : "odg1",
+      "choice_two" : "odg2",
+      "choice_three" : "odg3",
+      "choice_four" : "odg4"
+    }      
+  ] 
 }
