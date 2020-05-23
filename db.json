@@ -7,7 +7,9 @@
       "choice_one" : "neki body1",
       "choice_two" : "neki body2",
       "choice_three" : "neki body3",
-      "choice_four" : "neki body4"
+      "choice_four" : "neki body4",
+      "category" : "category1"
+      
     },
     { 
       "id" : 2, 
@@ -15,7 +17,8 @@
       "choice_one" : "odg1",
       "choice_two" : "odg2",
       "choice_three" : "odg3",
-      "choice_four" : "odg4"
+      "choice_four" : "odg4",
+      "category" : "category2"
     }      
   ] 
 }
