@@ -3,7 +3,7 @@
   [   
     { 
       "id" : 1, 
-      "question_text" : "nesto", 
+      "question_text" : "historija1", 
       "choice_one" : "neki body1",
       "choice_two" : "neki body2",
       "choice_three" : "neki body3",
@@ -13,12 +13,30 @@
     },
     { 
       "id" : 2, 
-      "question_text" : "pitanje", 
+      "question_text" : "pitanjeGEO", 
       "choice_one" : "odg1",
       "choice_two" : "odg2",
       "choice_three" : "odg3",
       "choice_four" : "odg4",
       "category" : "Geography"
-    }      
+    },
+    { 
+      "id" : 3, 
+      "question_text" : "historija2", 
+      "choice_one" : "odg1",
+      "choice_two" : "odg2",
+      "choice_three" : "odg3",
+      "choice_four" : "odg4",
+      "category" : "History"
+    },
+    { 
+      "id" : 4, 
+      "question_text" : "pitanjeGEO", 
+      "choice_one" : "odg1",
+      "choice_two" : "odg2",
+      "choice_three" : "odg3",
+      "choice_four" : "odg4",
+      "category" : "Geography"
+    }     
   ] 
 }
