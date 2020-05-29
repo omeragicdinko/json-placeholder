@@ -13,7 +13,7 @@
     },
     { 
       "id" : 2, 
-      "question_text" : "pitanjeGEO", 
+      "question_text" : "pitanjeGEO1", 
       "choice_one" : "odg1",
       "choice_two" : "odg2",
       "choice_three" : "odg3",
@@ -31,12 +31,49 @@
     },
     { 
       "id" : 4, 
-      "question_text" : "pitanjeGEO", 
+      "question_text" : "pitanjeGEO2", 
       "choice_one" : "odg1",
       "choice_two" : "odg2",
       "choice_three" : "odg3",
       "choice_four" : "odg4",
       "category" : "Geography"
-    }     
+    },
+    { 
+      "id" : 5, 
+      "question_text" : "historija3", 
+      "choice_one" : "neki body1",
+      "choice_two" : "neki body2",
+      "choice_three" : "neki body3",
+      "choice_four" : "neki body4",
+      "category" : "History"
+      
+    },
+    { 
+      "id" : 6, 
+      "question_text" : "pitanjeGEO3", 
+      "choice_one" : "odg1",
+      "choice_two" : "odg2",
+      "choice_three" : "odg3",
+      "choice_four" : "odg4",
+      "category" : "Geography"
+    },
+    { 
+      "id" : 7, 
+      "question_text" : "historija4", 
+      "choice_one" : "odg1",
+      "choice_two" : "odg2",
+      "choice_three" : "odg3",
+      "choice_four" : "odg4",
+      "category" : "History"
+    },
+    { 
+      "id" : 8, 
+      "question_text" : "pitanjeGEO4", 
+      "choice_one" : "odg1",
+      "choice_two" : "odg2",
+      "choice_three" : "odg3",
+      "choice_four" : "odg4",
+      "category" : "Geography"
+    }
   ] 
 }
