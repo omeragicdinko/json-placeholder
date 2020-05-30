@@ -74,25 +74,6 @@
       "choice_three" : "odg3",
       "choice_four" : "odg4",
       "category" : "Geography"
-    },
-    { 
-      "id" : 9, 
-      "question_text" : "historija5", 
-      "choice_one" : "neki body1",
-      "choice_two" : "neki body2",
-      "choice_three" : "neki body3",
-      "choice_four" : "neki body4",
-      "category" : "History"
-      
-    },
-    { 
-      "id" : 10, 
-      "question_text" : "pitanjeGEO5", 
-      "choice_one" : "odg1",
-      "choice_two" : "odg2",
-      "choice_three" : "odg3",
-      "choice_four" : "odg4",
-      "category" : "Geography"
     }
   ] 
 }
