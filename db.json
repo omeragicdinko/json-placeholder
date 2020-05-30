@@ -13,11 +13,11 @@
     },
     { 
       "id" : 2, 
-      "question_text" : "pitanjeGEO1", 
-      "choice_one" : "odg1",
-      "choice_two" : "odg2",
-      "choice_three" : "odg3",
-      "choice_four" : "odg4",
+      "question_text" : "Which of these cities is not in Europe?", 
+      "choice_one" : "Moscow",
+      "choice_two" : "Prague",
+      "choice_three" : "Barcelona",
+      "choice_four" : "Reykjavik",
       "category" : "Geography"
     },
     { 
@@ -31,11 +31,11 @@
     },
     { 
       "id" : 4, 
-      "question_text" : "pitanjeGEO2", 
-      "choice_one" : "odg1",
-      "choice_two" : "odg2",
-      "choice_three" : "odg3",
-      "choice_four" : "odg4",
+      "question_text" : "The United Kingdom is comprised of how many countries?", 
+      "choice_one" : "4",
+      "choice_two" : "5",
+      "choice_three" : "6",
+      "choice_four" : "8",
       "category" : "Geography"
     },
     { 
@@ -50,11 +50,11 @@
     },
     { 
       "id" : 6, 
-      "question_text" : "pitanjeGEO3", 
-      "choice_one" : "odg1",
-      "choice_two" : "odg2",
-      "choice_three" : "odg3",
-      "choice_four" : "odg4",
+      "question_text" : "Which of the following countries do not border France?", 
+      "choice_one" : "Netherlands",
+      "choice_two" : "Germany",
+      "choice_three" : "Spain",
+      "choice_four" : "Italy",
       "category" : "Geography"
     },
     { 
@@ -68,11 +68,11 @@
     },
     { 
       "id" : 8, 
-      "question_text" : "pitanjeGEO4", 
-      "choice_one" : "odg1",
-      "choice_two" : "odg2",
-      "choice_three" : "odg3",
-      "choice_four" : "odg4",
+      "question_text" : "Which is the longest river in the world?", 
+      "choice_one" : "Nile River",
+      "choice_two" : "Yellow River",
+      "choice_three" : "Amazon River",
+      "choice_four" : "Congo River",
       "category" : "Geography"
     }
   ] 
