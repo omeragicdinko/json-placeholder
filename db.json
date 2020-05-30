@@ -3,11 +3,11 @@
   [   
     { 
       "id" : 1, 
-      "question_text" : "historija1", 
-      "choice_one" : "neki body1",
-      "choice_two" : "neki body2",
-      "choice_three" : "neki body3",
-      "choice_four" : "neki body4",
+      "question_text" : "World War I began in which year?", 
+      "choice_one" : "1914",
+      "choice_two" : "1917",
+      "choice_three" : "1939",
+      "choice_four" : "1913",
       "category" : "History"
       
     },
@@ -22,11 +22,11 @@
     },
     { 
       "id" : 3, 
-      "question_text" : "historija2", 
-      "choice_one" : "odg1",
-      "choice_two" : "odg2",
-      "choice_three" : "odg3",
-      "choice_four" : "odg4",
+      "question_text" : "The Hundred Years War was fought between what two countries?", 
+      "choice_one" : "France and England",
+      "choice_two" : "Spain and France",
+      "choice_three" : "England and Germany",
+      "choice_four" : "Italy and Carthage",
       "category" : "History"
     },
     { 
@@ -40,17 +40,17 @@
     },
     { 
       "id" : 5, 
-      "question_text" : "historija3", 
-      "choice_one" : "neki body1",
-      "choice_two" : "neki body2",
-      "choice_three" : "neki body3",
-      "choice_four" : "neki body4",
+      "question_text" : "This man wrote a document known as the 95 Theses.", 
+      "choice_one" : "Martin Luther",
+      "choice_two" : "Saint Augustus",
+      "choice_three" : "Henry David Thoreau",
+      "choice_four" : "Voltaire",
       "category" : "History"
       
     },
     { 
       "id" : 6, 
-      "question_text" : "Which of the following countries do not border France?", 
+      "question_text" : "Which of the following countries does not border France?", 
       "choice_one" : "Netherlands",
       "choice_two" : "Germany",
       "choice_three" : "Spain",
@@ -59,11 +59,11 @@
     },
     { 
       "id" : 7, 
-      "question_text" : "historija4", 
-      "choice_one" : "odg1",
-      "choice_two" : "odg2",
-      "choice_three" : "odg3",
-      "choice_four" : "odg4",
+      "question_text" : "Who was the first Western explorer to reach China?", 
+      "choice_one" : "Marco Polo",
+      "choice_two" : "Cook",
+      "choice_three" : "Magellan",
+      "choice_four" : "Sir Francis Drake",
       "category" : "History"
     },
     { 
