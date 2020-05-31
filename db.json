@@ -74,6 +74,78 @@
       "choice_three" : "Amazon River",
       "choice_four" : "Congo River",
       "category" : "Geography"
+    },
+    { 
+      "id" : 9, 
+      "question_text" : "Who wrote 'War and Peace'?", 
+      "choice_one" : "Leo Tolstoy",
+      "choice_two" : "Mahatma Gandhi",
+      "choice_three" : "Charles Dickens",
+      "choice_four" : "Kipling",
+      "category" : "Books"
+    },
+    { 
+      "id" : 10, 
+      "question_text" : "Which of the following English films was the first one to be dubbed in Hindi?", 
+      "choice_one" : "Aladdin",
+      "choice_two" : "Universal Soldier",
+      "choice_three" : "Speed",
+      "choice_four" : "Iron Man",
+      "category" : "Movies"
+    },
+    { 
+      "id" : 11, 
+      "question_text" : "'Alice in Wonderland' the famous TV serial is based on a book written by", 
+      "choice_one" : "Lewis Caroll",
+      "choice_two" : "Charles Dickens",
+      "choice_three" : "Thomas Hardy",
+      "choice_four" : "Father Discoste",
+      "category" : "Books"
+    },
+    { 
+      "id" : 12, 
+      "question_text" : "The creator of 'Sherlock Holmes' was", 
+      "choice_one" : "Arthur Conan Doyle",
+      "choice_two" : "Ian Fleming",
+      "choice_three" : "Dr. Watson",
+      "choice_four" : "Shakespeare",
+      "category" : "Books"
+    },
+    { 
+      "id" : 13, 
+      "question_text" : "The famous book 'Anna Karenina' written by ?", 
+      "choice_one" : "Leo Tolstoy",
+      "choice_two" : "Boris Pasternak",
+      "choice_three" : "Victor Hugo",
+      "choice_four" : "Lewis Carroll",
+      "category" : "Books"
+    },
+    { 
+      "id" : 14, 
+      "question_text" : "What color is Alice’s dress in Disney’s Alice in Wonderland?", 
+      "choice_one" : "Blue",
+      "choice_two" : "Red",
+      "choice_three" : "Yellow",
+      "choice_four" : "Pink",
+      "category" : "Movies"
+    },
+    { 
+      "id" : 15, 
+      "question_text" : "What is the color of Belle’s dress when she dances with the Beast?", 
+      "choice_one" : "Gold",
+      "choice_two" : "Pink",
+      "choice_three" : "Blue",
+      "choice_four" : "Green",
+      "category" : "Movies"
+    },
+    { 
+      "id" : 16, 
+      "question_text" : "In what year was the short film Steamboat Willie released?", 
+      "choice_one" : "1928",
+      "choice_two" : "1880",
+      "choice_three" : "1963",
+      "choice_four" : "1987",
+      "category" : "Movies"
     }
   ] 
 }
